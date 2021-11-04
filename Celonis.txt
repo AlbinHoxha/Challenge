@@ -1,3 +1,1 @@
 public void methodNdryshim(){};
-
-public void method22(){};
